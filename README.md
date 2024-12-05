@@ -1,4 +1,5 @@
 Disease Predictor using Machine Learning
+
 Overview
 The Disease Predictor using Machine Learning is a medical diagnostic tool that predicts the likely disease based on input symptoms. The system uses machine learning algorithms such as Decision Tree, Random Forest, and Naive Bayes to analyze the provided symptoms and predict the corresponding disease. The tool aims to assist healthcare professionals and patients in early diagnosis and decision-making.
 
